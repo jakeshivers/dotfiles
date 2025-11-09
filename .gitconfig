@@ -1,0 +1,9 @@
+[user]
+	name = Jake Shivers
+	email = jakeshivers@gmail.com
+[core]
+	excludesFile = /home/jake/.gitignore_global
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
